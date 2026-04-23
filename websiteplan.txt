@@ -1,0 +1,261 @@
+1. Planned pages
+
+The title will be Tahsan Rahman’s Homepage, and the filename is index.html
+
+The title will be Visual Studio Code editor, and the filename is editor.html
+
+The title will be HTML Semantic Elements, and the filename is semantics.html
+
+The title will be CSS Layout and Responsive Design, and the filename is css-layout.html 
+
+The title will be Webpage Accessibility, and the filename is accessibility.html
+
+The title will be Ethical Issues in Web Development, and the filename is ethical-issues.html
+
+The title will be Validation for HTML and CSS code, and the filename is validator.html
+
+The title will be Using Generative Artificial Intelligence, and the filename is artificial-intelligence.html
+
+
+2. Content Details for Each Page
+
+Homepage: This page explains what the homepage is about, as well as covers various pages mentioned, such as the code editor and HTML semantic elements. Explaining why I took this course and show how much I had progressed throughout the entire semester. 
+
+Code editor: This page explains my experience with the code editor, in addition to providing feedback on how amazing it is, along with many features it provides, as well as how it can allow you to explore other programming languages such as Python, C #, and much more.
+
+HTML - semantic elements: This page will go over HTML semantics and how they are both helpful and useful in webpages, especially when it comes to doing the assignments relating to coding with the HTML coding language as a whole, and how my experience with them has gone so far. 
+
+CSS - Layout and Responsive design: This page will go over about CSS Layout and Responsive Design, and how it actially benefit people who are impaired, whether it is visual, cognitive, motor, or auditory. And how my experience with Layout and Responsive design went.
+
+Accessibility: This page will go over about Accessibility and how important, beneficial, and useful it can be for websites to have accessibility, allowing people who are impaired, whether it is visual, cognitive, motor, or auditory. Allowing them to be able to experience using the internet to explore websites just like everyone else.
+
+Ethical issues in web development: This page will address ethical issues in web development and how it is happening all over the internet, especially when it comes to websites, wanting to make a positive impact and change so that ethical issues are less likely to happen in the future.
+
+Validation for HTML and CSS code: This page will cover validators for HTML and CSS, showing the benefits of how useful they are, in addition to my experience using them throughout the entire semester, and how they helped me a lot, as well as provide me with feedback when it comes to errors.
+
+Using generative artificial intelligence: This page will address generative artificial intelligence and how it affects when it comes to doing web design and coding in general. In addition, how I see and view artificial intelligence in coding also.
+
+
+3. Planned Media & Assets
+
+Homepage:
+
+A. Images: Images of just HTML and CSS, while also finding an image to greet the users who found my webpage
+
+B. Icons: An Icon of a house
+
+C. Videos: Video showing an introduction to web design
+
+D. Tables or Lists: Providing a list that displays what will be mentioned on the page
+
+E. Forms: If you have any questions or are curious about my experience with web designing
+
+
+Code editor:
+
+A. Images: Showing the logo of Visual Studio Code because it is the most popular choice when it comes to code editors
+
+B. Icons: A keyboard because it seemed suitable, since when it comes to coding, typing is involved, so it seemed reasonable, and it symbolizes Visual Studio Code well.
+
+C. Videos: Showing an introduction to Visual Studio Code
+
+D. Tables or Lists: Providing a list that displays highlights of interesting features that Visual Studio Code has to offer
+
+E. Forms: Any feedback you want to provide me regarding Visual Studio Code
+
+
+HTML - semantic elements:
+
+A. Images: An image of some sort of structure as a way to symbolize the HTML semantic elements
+
+B. Icons: A blueprint because it symbolizes well with HTML semantic elements
+
+C. Videos: An introduction to HTML semantics
+
+D. Tables or Lists: Providing a list that displays lists of examples of HTML semantics
+
+E. Forms: Any feedback you want to provide me regarding HTML semantics
+
+
+CSS - Layout and Responsive design: 
+
+A. Images: An image of a person using a mobile device as a way to symbolize Layout and Responsive design
+
+B. Icons: An image of a computer monitor, because it symbolizes responsive design pretty well, since a webpage has to function properly on other devices as well.
+
+C. Videos: An introduction to CSS Layout and Responsive design
+
+D. Tables or Lists: Providing a list that displays lists of examples of CSS Layout and Responsive design
+
+E. Forms: Any feedback you want to provide me regarding CSS Layout and Responsive design
+
+
+Accessibility:
+
+A. Images: An image of a brain connected to body parts such as hands, eyes, and ears to symbolize people being able to access the internet, no matter what impairment people have.
+
+B. Icons: An image of an eye to demonstrate visual impairment
+
+C. Videos: A video documenting the purpose of why accessibility in a website is important
+
+D. Tables or Lists: Providing a list that displays information as to what I learned and what is best to implement to make accessibility possible
+
+E. Forms: Any feedback you want to provide me regarding Accessibility
+
+
+Ethical issues in web development:
+
+A. Images: An image of incognito to symbolize privacy, which is one of the main issues when it comes to web development
+
+B. Icons: Scale of Justice, which helps symbolize ethical issues when it comes to web development
+
+C. Videos: Providing a video that explains and introduces ethical issues in general, especially when it comes to web design and web development
+
+D. Tables or Lists: Providing a list that displays information about how crucial ethical issues occur in web development and what to do to reduce the issues from happening
+
+E. Forms: Any feedback you want to provide me regarding Ethical issues in web development
+
+
+Validation for HTML and CSS code:
+
+A. Images: An image displaying two signs, a green checkmark symbolizing correction, while another is a red X mark symbolizing incorrectness.
+
+B. Icons: An icon of a magnifying glass to symbolize validation for HTML and CSS code, as a way to ensure the code is right
+
+C. Videos: A video covering how to use validators for HTML and CSS
+
+D. Tables or Lists: Providing a list that displays information about what HTML and CSS Validators can provide and offer, along with what features they have
+
+E. Forms: Any feedback you want to provide me regarding 
+
+
+Using generative artificial intelligence:
+
+A. Images: An image of a person with a transparent head, but shows a brain with nerves and neurons glowing while having a background, which relates to technology and electronics
+
+B. Icons: An image of a lightbulb, which symbolizes well when it comes to generative artificial intelligence, as AI provides ideas to its users 
+
+C. Videos: Providing a video that explains and provides ideas and concepts of what Generative AI is in general
+
+D. Tables or Lists: Providing a list that displays information regarding generative AI, especially how it is used when it comes to web design, web development, and coding in general
+
+E. Forms: Any feedback you want to provide me regarding the usage of generative artificial intelligence
+
+
+4. Navigation Plan
+
+The way users will be able to navigate through my site would be through a menu label, which would show categories such as Code editor, HTML semantic elements, Accessibility, etc. Like for this instance:
+
+Homepage, Code Editor, HTML Semantics, CSS Layout, Accessibility, Ethical Issues, Validation, Generative Artificial Intelligence
+
+For the Footer link, I would provide my GitHub profile, which has been done before for previous assignments, and I think it is a great practice. In this instance:
+
+Footer Link: My GitHub Profile
+
+
+5. Accessibility Considerations
+
+Answer briefly: 
+
+1. What images will need alt text?
+
+Answer: I would say all the images for each webpage, so that visually impaired people can understand what the images are to them, and also make the website more responsive and accessible in a certain way.
+
+2. How will you structure your headings (H1, H2, H3) on each page?
+
+Answer: I would simply do H1 for Headings of the webpages to be able to follow the requirements needed for the final project, not to mention that for H2, I would provide certain text of information for the article and the video separately, and for H3, it can be useful as a title when mentioning a list in the webpages, which actually completes and functions as a hierarchy structure.
+
+3. Will you use color combinations that meet contrast guidelines? ☐ Yes ☐ Working on it 
+
+Answer: Yes
+
+
+6. File and Folder Plan
+
+
+
+/final-project-multi-page
+
+index.html
+
+styles.css
+
+mainpage-house-icon.png
+
+mainpage-html-image.png
+
+mainpage-css-image.png
+
+mainpage-greeting-image.png
+
+editor.html
+
+editor.css
+
+editor-keyboard-icon.png
+
+editor-vsc-logo-image.png
+
+semantics.html
+
+semantics.css
+
+semantics-blueprint-icon.png
+
+semantics-structure-image.png
+
+css-layout.html 
+
+css-layout.css
+
+css-layout-monitor-icon.png
+
+css-layout-mobile-device-image.png
+
+accessibility.html
+
+accessibility.css
+
+accessibility-eye-icon.png
+
+accessibility-brain-body-parts-image.png
+
+ethical-issues.html
+
+ethical-issues.css
+
+ethical-issues-scale-of-justice-icon.png
+
+ethical-issues-incognito-image.png
+
+validator.html
+
+validator.css
+
+validator-magnifying-glass-icon.png
+
+validator-green-checkmark-image.png
+
+validator-red-x-mark-image.png
+
+artificial-intelligence.html
+
+artificial-intelligence.css
+
+artificial-intelligence-light-bulb-icon.png
+
+artificial-intelligence-person-brain-image.png
+
+
+Comment: Throughout the whole semester, the past submissions of assignments and projects were done through links to GitHub repositories; the final project is going to be submitted through a GitHub repository. It made sense and, for safety reasons, to provide all the needed HTML, CSS, images, and icons in one repository so it can function properly and correctly, as well as for all that to be renamed.
+
+
+7. Code Validation
+
+
+HTML Validation: For HTML, I will simply use an HTML validator, in this case, W3C Markup Validation Service, which is a popular and use validator to be able to validate whether my HTML files for the final project are properly fine, correct and have no errors, if so it will show the reason why I got errors and locate the problem with the HTML code, which would allow me to fix my mistakes so that the HTML files has no problems and run smoothly.
+
+CSS Validation: Just like how I did for HTML, I will simply use an CSS validator, in this case, W3C CSS Validation Service, which is a popular and use validator to be able to validate whether my CSS files for the final project are properly fine, correct and have no errors, if so it will show the reason why I got errors and locate the problem with the CSS code, which would allow me to fix my mistakes so that the CSS files has no problems and run smoothly.
+
+Extra Precaution: I would also simply double-check and manually read my code to double check and ensure I had not made any typos or issues for both my HTML and CSS files for the final project.
+
