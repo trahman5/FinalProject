@@ -1,0 +1,179 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    font-family: 'Verdana', 'Helvetica', sans-serif;
+    background-color: gainsboro;
+}
+
+.color-link:hover {
+    color: #631212;
+    font-size: 1.4rem;
+}
+
+.color-link:focus {
+    outline: solid 2.5px red;
+}
+
+.grid_container {
+    display: grid;
+    max-width: 100%;
+}
+
+nav {
+    display: flex;
+    background-color: black;
+    text-align: center;
+}
+
+nav ul {
+    justify-content: center;
+    list-style-type: none;
+    display: flex;
+    padding: 1rem;
+
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 1rem;   
+    justify-content: center;
+    transition: all 0.3s ease;
+    font-size: 1.4rem;
+}
+
+nav li a:hover {
+    color: #00FF00;
+    font-size: 1.7rem;
+}
+
+.image-icon {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+iframe {
+  max-width: 100%;
+  aspect-ratio: 16/9;
+  display: block;
+}
+
+#description {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+
+h2 {
+    border: solid 5px black;
+    padding: 0.5rem;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.email, .name {
+    font-size: 1.2rem;
+}
+
+.feedback {
+    font-size: 1.2rem;
+}
+
+form {
+    display: grid;
+    border: solid 4px black;
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem;
+}
+
+.list {
+    background-color: white;
+    border: solid 4px black;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.list-info {
+    font-size: 1.3rem;
+    margin: 0.5rem;
+}
+
+.description-content {
+    font-size: 1.25rem;
+}
+
+footer {
+    font-size: 1.4rem;
+}
+
+.color-footer:focus {
+    outline: solid 2.5px red;
+}
+
+@media (max-width: 1120px) {
+    p {
+        font-size: 1rem;
+    }
+
+    #description{
+        font-size: 1rem;
+    }
+
+    figcaption {
+        font-size: 0.7rem;
+    }
+
+    .feedback, .email, .name {
+        font-size: 1.1rem;
+    }
+
+    nav ul {
+        flex-direction: column;
+        margin: 1rem;
+    }
+
+    nav {
+        padding: 0.5rem;
+    }
+
+    nav a {
+        font-size: 1.2rem;
+    }
+
+    header h1 {
+        font-size: 1rem;
+    }
+
+    h2 {
+        font-size: 1.1rem;
+    }
+
+    h3 {
+        font-size: 1rem;
+    }
+
+    h4 {
+        font-size: 1rem;
+    }
+
+    .grid_container {
+        display: block;
+        grid-template-columns: 1fr;
+    }
+
+    .image-icon {
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    body {
+    font-family: 'Verdana', 'Helvetica', sans-serif;
+    background-color: gainsboro;
+    }
+
+}
+
