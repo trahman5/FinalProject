@@ -126,7 +126,7 @@ C. Videos: A video covering how to use validators for HTML and CSS
 
 D. Tables or Lists: Providing a list that displays information about what HTML and CSS Validators can provide and offer, along with what features they have
 
-E. Forms: Any feedback you want to provide me regarding 
+E. Forms: Any feedback you want to provide me regarding Validation for HTML and CSS code
 
 
 Using generative artificial intelligence:
@@ -259,3 +259,4 @@ CSS Validation: Just like how I did for HTML, I will simply use an CSS validator
 
 Extra Precaution: I would also simply double-check and manually read my code to double check and ensure I had not made any typos or issues for both my HTML and CSS files for the final project.
 
+Extra Comment: The resources for the webpages, such as images, icons, videos, etc., are all mentioned in each HTML page for the project. They do not belong to me and have links to the original site; all the assets and resources belong to their rightful owners. Credit to them.*
